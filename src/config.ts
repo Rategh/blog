@@ -5,7 +5,7 @@ export const SITE: Site = {
   author: "Mohammad Sadegh Rategh",
   profile: "https://rategh.com/",
   desc: "Personal blog of Mohammad Sadegh Rategh - Software Engineer, Data Enthusiast, and Linux Guru.",
-  title: "Welcome to My Blog | Mohammad Sadegh Rategh",
+  title: "Mohammad Sadegh Rategh",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
@@ -19,7 +19,7 @@ export const LOCALE = {
 } as const;
 
 export const LOGO_IMAGE = {
-  enable: true,
+  enable: false,
   svg: true,
   width: 216,
   height: 46,
