@@ -1,36 +1,34 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "About"
+title: "About Me"
 ---
+## **Hey there, I’m Mohammad Sadegh Rategh**
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+Software Engineer | Data Enthusiast | Linux Guru
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+I have a Bachelor’s degree in Software Engineering and a Master’s in Data Mining, with a focus on data privacy and preservation. Over the past decade, I’ve honed my skills in programming, server management, and network architecture, making technology both my passion and career.
 
 <div>
   <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
 </div>
 
-## Tech Stack
+For the last ten years, I’ve used Arch Linux and macOS as my primary operating systems, bringing the best of both worlds into my daily routine as a software developer. I have extensive experience setting up and managing Linux-based servers, from small personal projects to large-scale environments.
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+As a programmer, I’m well-versed in Python, and have used frameworks like Django and Flask to create APIs that handle high volumes of traffic. My stack includes databases such as PostgreSQL, MySQL, MongoDB, and even Redis for caching and RabbitMQ for queue management. I also have experience with ElasticSearch and the ELK stack for log management, helping teams extract valuable insights from their systems.
 
-## Features
+Apart from my technical skills, I have a deep love for networking, gadgets, and new technologies. I’m always learning and experimenting with the latest advancements. When I’m not working on projects, I enjoy contributing to the tech community by writing guides, sharing tips, and helping others in team settings.
 
-Here are certain features of this site.
+What I Believe In:
 
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
+- **Continuous Learning**: There’s always something new to explore and improve in tech.
+- **Best Practices**: Quality, maintainability, and scalability are key in everything I build.
+- **Collaboration**: I believe in helping my peers and contributing to the growth of my team. 
 
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+When I’m not working on code, you’ll likely find me experimenting with new gadgets, exploring networking setups, or reading about the latest innovations in the tech world.
+
+
+Let’s connect and make something amazing together!
+
+I built my blog using Astro with the Astro Paper theme [repo](https://github.com/satnaing/astro-paper). 
+The source code for the blog is available in the [repo](https://github.com/Rategh/Blog) on my GitHub account.
