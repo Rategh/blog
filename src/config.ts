@@ -2,10 +2,10 @@ import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
   website: "https://rategh.com/", // replace this with your deployed domain
-  author: "Mohammad Sadegh Rategh",
+  author: "MohammadSadegh Rategh",
   profile: "https://rategh.com/",
-  desc: "Personal blog of Mohammad Sadegh Rategh - Software Engineer, Data Enthusiast, and Linux Guru.",
-  title: "Mohammad Sadegh Rategh",
+  desc: "Personal blog of MohammadSadegh Rategh - Software Engineer, Data Enthusiast, and Linux Guru.",
+  title: "MohammadSadegh Rategh",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
@@ -136,9 +136,9 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "Telegram",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://t.me/MohammadRategh",
     linkTitle: `${SITE.title} on Telegram`,
-    active: false,
+    active: true,
   },
   {
     name: "Mastodon",
